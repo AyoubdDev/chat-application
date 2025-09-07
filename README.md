@@ -51,9 +51,10 @@ Copier le code
 mvn clean javafx:run
 👉 Tu peux ouvrir plusieurs fenêtres client pour tester la communication en temps réel.
 
-🎨 Aperçu (Demo)
+## Capture d’écran
 
-![Demo](screen/demo.png)
+    ![Demo](./screen/demo.png)
+
 
 📖 Technologies utilisées
 Java 17
