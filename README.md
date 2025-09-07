@@ -55,6 +55,7 @@ mvn clean javafx:run
 
     ![Demo](./screen/demo.png)
 
+![Demo](./screen/demo.png)
 
 📖 Technologies utilisées
 Java 17
