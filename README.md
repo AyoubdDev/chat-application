@@ -53,7 +53,7 @@ mvn clean javafx:run
 
 🎨 Aperçu (Demo)
 
-![Demo](screen/demo.png)
+![Demo](./screen/demo.png)
 
 📖 Technologies utilisées
 Java 17
