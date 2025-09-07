@@ -40,20 +40,7 @@ Copier le code
 
 ## ▶️ Exécution du projet
 
-### 1️⃣ Lancer le serveur
-```bash
-mvn exec:java -Dexec.mainClass="com.example.chatapp.ChatServer"
-2️⃣ Lancer un client JavaFX
-Dans un nouveau terminal :
-
-bash
-Copier le code
-mvn clean javafx:run
-👉 Tu peux ouvrir plusieurs fenêtres client pour tester la communication en temps réel.
-
 ## Capture d’écran
-
-    ![Demo](./screen/demo.png)
 
 ![Demo](./screen/demo.png)
 
